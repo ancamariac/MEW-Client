@@ -1,2 +1,2 @@
 # MEW-Client
-Multiplayer Explained Gameloft workshop - client app using winsock
+Multiplayer Explained Gameloft workshop - client app using winsock (sender)
